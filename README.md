@@ -20,3 +20,7 @@ APoD_app/
 ```
 (venv) $ export FLASK_APP=microblog.py
 ```
+* Next run this command to begin the local server :
+```
+(venv) $ flask run
+```
