@@ -16,3 +16,7 @@ APoD_app/
   get_pdf.py
 
 ```
+* Then run the following command to setup the environment variable
+```
+(venv) $ export FLASK_APP=microblog.py
+```
