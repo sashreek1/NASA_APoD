@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }} - APOD_app</title>
+    <style>
+body {
+  background-color: #fefbd8;
+}
+
+h1 {
+  background-color: #80ced6;
+}
+img {
+    text-align: center;
+}
+</style>
+
+</head>
+<body>
+    <CENTER>
+    <h1 style= "font-size:300%;"> NASA APoD downloader</h1>
+    </CENTER>
+
+    <div style="float:left; margin-top:125px; margin-left:750px;">
+    <form method="POST">
+    <input name="text" value="Date(YYYY-MM-DD)">
+    <input type="submit" value="Get Image">
+    </form>
+    </div>
+
+    <div style="margin-top:350px">
+    <center>
+        <img src= {{image}} alt="NASA APoD" height="400px">
+    </center>
+    </div>
+
+    <div style="margin-top:10px">
+        <center>
+        <a href="/downloads">Download pdf</a>
+        </center>
+    </div>
+
+</body>
+</html>
