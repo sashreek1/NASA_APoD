@@ -25,4 +25,4 @@ APoD_app/
 (venv) $ flask run
 ```
 * Then you will see a webpage like this :
-![Alt text](https://drive.google.com/uc?export=view&id=15sdIW2tR0UJP-u1nWt91hEMyu4E9Bso4?raw=true "Title")  
+<a href="https://drive.google.com/uc?export=view&id=15sdIW2tR0UJP-u1nWt91hEMyu4E9Bso4"><img src="https://drive.google.com/uc?export=view&id=15sdIW2tR0UJP-u1nWt91hEMyu4E9Bso4" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
