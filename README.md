@@ -18,13 +18,13 @@ APoD_app/
 ```
 * Then run the following command to setup the environment variable
 ```
-(venv) $ export FLASK_APP=microblog.py
+(venv) $ export FLASK_APP=apod_app.py
 ```
 * Next run this command to begin the local server :
 ```
 (venv) $ flask run
 ```
 * Then you will see a webpage like this :
-<a href="https://drive.google.com/uc?export=view&id=15sdIW2tR0UJP-u1nWt91hEMyu4E9Bso4"><img src="https://drive.google.com/uc?export=view&id=15sdIW2tR0UJP-u1nWt91hEMyu4E9Bso4" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+<img src="Screenshot.png" width="200">
 * Then fill the text box with your required date and submit
 * You will get a preview and also an option to download as pdf (contains description)
