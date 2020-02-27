@@ -25,6 +25,6 @@ APoD_app/
 (venv) $ flask run
 ```
 * Then you will see a webpage like this :
-<img src="Screenshot.png" width="200">
+<img src="Screenshot.png" width="600">
 * Then fill the text box with your required date and submit
 * You will get a preview and also an option to download as pdf (contains description)
